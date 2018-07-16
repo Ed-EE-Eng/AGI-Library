@@ -4,20 +4,20 @@
 # Class (KEYWORD1)
 #######################################
 
-XYscope KEYWORD1
+XYscope	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################	
 
-someMethod		KEYWORD2
-someFunction  	KEYWORD2
+someMethod	KEYWORD2
+someFunction	KEYWORD2
 
 begin	KEYWORD2
 
 initiateDacDma	KEYWORD2
 
-dacHandler KEYWORD2
+dacHandler	KEYWORD2
 
 setScreenSaveSecs	KEYWORD2
 getScreenSaveSecs	KEYWORD2
